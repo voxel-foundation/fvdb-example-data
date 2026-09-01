@@ -1,0 +1,2043 @@
+{
+  "source": "Google Scanned Objects via Gazebo Fuel",
+  "collection_url": "https://app.gazebosim.org/GoogleResearch",
+  "license": "Creative Commons Attribution 4.0 International",
+  "license_url": "http://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Scanned Objects by Google Research, used under CC-BY 4.0",
+  "category": "Shoe",
+  "curated_with": "curate_gso_shoes.py (fvdb-core)",
+  "models": [
+    {
+      "file": "11pro_SL_TRX_FG.ply",
+      "name": "11pro_SL_TRX_FG",
+      "description": "11pro SL TRX FG",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/11pro_SL_TRX_FG",
+      "faces_original": 20706,
+      "faces_stored": 10000
+    },
+    {
+      "file": "AMBERLIGHT_UP_W.ply",
+      "name": "AMBERLIGHT_UP_W",
+      "description": "AMBERLIGHT UP W",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/AMBERLIGHT_UP_W",
+      "faces_original": 23444,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GEL1140V_WhiteBlackSilver.ply",
+      "name": "ASICS_GEL1140V_WhiteBlackSilver",
+      "description": "ASICS GEL-1140V\u2122 - White/Black/Silver",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GEL1140V_WhiteBlackSilver",
+      "faces_original": 37508,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GEL1140V_WhiteRoyalSilver.ply",
+      "name": "ASICS_GEL1140V_WhiteRoyalSilver",
+      "description": "ASICS GEL-1140V\u2122 - White/Royal/Silver",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GEL1140V_WhiteRoyalSilver",
+      "faces_original": 38246,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELAce_Pro_Pearl_WhitePink.ply",
+      "name": "ASICS_GELAce_Pro_Pearl_WhitePink",
+      "description": "ASICS GEL-Ace\u2122 Pro - Pearl White/Pink",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELAce_Pro_Pearl_WhitePink",
+      "faces_original": 45698,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELBlur33_20_GS_BlackWhiteSafety_Orange.ply",
+      "name": "ASICS_GELBlur33_20_GS_BlackWhiteSafety_Orange",
+      "description": "ASICS GEL-Blur33\u2122 2.0 GS - Black/White/Safety Orange",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELBlur33_20_GS_BlackWhiteSafety_Orange",
+      "faces_original": 39092,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELBlur33_20_GS_Flash_YellowHot_PunchSilver.ply",
+      "name": "ASICS_GELBlur33_20_GS_Flash_YellowHot_PunchSilver",
+      "description": "ASICS GEL-Blur33\u2122 2.0 GS - Flash Yellow/Hot Punch/Silver",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELBlur33_20_GS_Flash_YellowHot_PunchSilver",
+      "faces_original": 30660,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELChallenger_9_Royal_BlueWhiteBlack.ply",
+      "name": "ASICS_GELChallenger_9_Royal_BlueWhiteBlack",
+      "description": "ASICS GEL-Challenger\u00ae 9 - Royal Blue/White/Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELChallenger_9_Royal_BlueWhiteBlack",
+      "faces_original": 33438,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELDirt_Dog_4_SunFlameBlack.ply",
+      "name": "ASICS_GELDirt_Dog_4_SunFlameBlack",
+      "description": "ASICS GEL-Dirt Dog\u00ae 4 - Sun/Flame/Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELDirt_Dog_4_SunFlameBlack",
+      "faces_original": 44502,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELLinksmaster_WhiteCoffeeSand.ply",
+      "name": "ASICS_GELLinksmaster_WhiteCoffeeSand",
+      "description": "ASICS GEL-Linksmaster\u00ae - White/Coffee/Sand",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELLinksmaster_WhiteCoffeeSand",
+      "faces_original": 34586,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELLinksmaster_WhiteRasberryGunmetal.ply",
+      "name": "ASICS_GELLinksmaster_WhiteRasberryGunmetal",
+      "description": "ASICS GEL-Linksmaster\u00ae - White/Rasberry/Gunmetal",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELLinksmaster_WhiteRasberryGunmetal",
+      "faces_original": 31266,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELLinksmaster_WhiteSilverCarolina_Blue.ply",
+      "name": "ASICS_GELLinksmaster_WhiteSilverCarolina_Blue",
+      "description": "ASICS GEL-Linksmaster\u00ae - White/Silver/Carolina Blue",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELLinksmaster_WhiteSilverCarolina_Blue",
+      "faces_original": 34160,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELResolution_5_Flash_YellowBlackSilver.ply",
+      "name": "ASICS_GELResolution_5_Flash_YellowBlackSilver",
+      "description": "ASICS GEL-Resolution\u00ae 5 - Flash Yellow/Black/Silver",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELResolution_5_Flash_YellowBlackSilver",
+      "faces_original": 36694,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_GELTour_Lyte_WhiteOrchidSilver.ply",
+      "name": "ASICS_GELTour_Lyte_WhiteOrchidSilver",
+      "description": "ASICS GEL-Tour Lyte\u00ae - White/Orchid/Silver",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_GELTour_Lyte_WhiteOrchidSilver",
+      "faces_original": 26000,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ASICS_HyperRocketgirl_SP_5_WhiteMalibu_BlueBlack.ply",
+      "name": "ASICS_HyperRocketgirl_SP_5_WhiteMalibu_BlueBlack",
+      "description": "ASICS Hyper-Rocketgirl\u2122 SP 5 - White/Malibu Blue/Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ASICS_HyperRocketgirl_SP_5_WhiteMalibu_BlueBlack",
+      "faces_original": 21152,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Adrenaline_GTS_13_Color_DrkDenimWhtBachlorBttnSlvr_Size_50_yfK40TNjq0V.ply",
+      "name": "Adrenaline_GTS_13_Color_DrkDenimWhtBachlorBttnSlvr_Size_50_yfK40TNjq0V",
+      "description": "Adrenaline GTS 13, Color: DrkDenim/Wht/BachlorBttn/Slvr, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Adrenaline_GTS_13_Color_DrkDenimWhtBachlorBttnSlvr_Size_50_yfK40TNjq0V",
+      "faces_original": 45866,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70.ply",
+      "name": "Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70",
+      "description": "Adrenaline GTS 13, Color: Wht/Obsdian/Blck/Olmpc/Slvr, Size: 7.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Adrenaline_GTS_13_Color_WhtObsdianBlckOlmpcSlvr_Size_70",
+      "faces_original": 48412,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats.ply",
+      "name": "Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats",
+      "description": "Azure Snake Tieks - Leather Snake Print Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Azure_Snake_Tieks_Leather_Snake_Print_Ballet_Flats",
+      "faces_original": 30976,
+      "faces_stored": 10000
+    },
+    {
+      "file": "CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN.ply",
+      "name": "CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN",
+      "description": "CLIMACOOL BOAT BREEZE",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/CLIMACOOL_BOAT_BREEZE_IE6CyqSaDwN",
+      "faces_original": 41832,
+      "faces_stored": 10000
+    },
+    {
+      "file": "California_Navy_Tieks_Italian_Leather_Ballet_Flats.ply",
+      "name": "California_Navy_Tieks_Italian_Leather_Ballet_Flats",
+      "description": "California Navy Tieks - Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/California_Navy_Tieks_Italian_Leather_Ballet_Flats",
+      "faces_original": 23540,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50.ply",
+      "name": "Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50",
+      "description": "Cascadia 8, Color: Aquarius/Hibscs/BearingSea/Blk, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cascadia_8_Color_AquariusHibscsBearingSeaBlk_Size_50",
+      "faces_original": 42288,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Chelsea_BlkHeelPMP_DwxLtZNxLZZ.ply",
+      "name": "Chelsea_BlkHeelPMP_DwxLtZNxLZZ",
+      "description": "Chelsea Blk.Heel.PMP",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chelsea_BlkHeelPMP_DwxLtZNxLZZ",
+      "faces_original": 15226,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Chelsea_lo_fl_rdheel_nQ0LPNF1oMw.ply",
+      "name": "Chelsea_lo_fl_rdheel_nQ0LPNF1oMw",
+      "description": "Chelsea lo fl rd.heel",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chelsea_lo_fl_rdheel_nQ0LPNF1oMw",
+      "faces_original": 7624,
+      "faces_stored": 7624
+    },
+    {
+      "file": "Chelsea_lo_fl_rdheel_zAQrnhlEfw8.ply",
+      "name": "Chelsea_lo_fl_rdheel_zAQrnhlEfw8",
+      "description": "Chelsea lo fl rd.heel",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Chelsea_lo_fl_rdheel_zAQrnhlEfw8",
+      "faces_original": 7910,
+      "faces_stored": 7910
+    },
+    {
+      "file": "ClimaCool_Aerate_2_W_Wide.ply",
+      "name": "ClimaCool_Aerate_2_W_Wide",
+      "description": "ClimaCool Aerate 2 W Wide",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ClimaCool_Aerate_2_W_Wide",
+      "faces_original": 28482,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Colton_Wntr_Chukka_y4jO0I8JQFW.ply",
+      "name": "Colton_Wntr_Chukka_y4jO0I8JQFW",
+      "description": "Colton Wntr Chukka",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Colton_Wntr_Chukka_y4jO0I8JQFW",
+      "faces_original": 26766,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats.ply",
+      "name": "Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats",
+      "description": "Copperhead Snake Tieks - Brown Snake Print Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Copperhead_Snake_Tieks_Brown_Snake_Print_Ballet_Flats",
+      "faces_original": 30854,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Court_Attitude.ply",
+      "name": "Court_Attitude",
+      "description": "Court Attitude",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Court_Attitude",
+      "faces_original": 37954,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Crazy_8.ply",
+      "name": "Crazy_8",
+      "description": "Crazy 8",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Crazy_8",
+      "faces_original": 25056,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Crazy_Shadow_2.ply",
+      "name": "Crazy_Shadow_2",
+      "description": "Crazy Shadow 2",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Crazy_Shadow_2",
+      "faces_original": 39326,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Crazy_Shadow_2_oW4Jd10HFFr.ply",
+      "name": "Crazy_Shadow_2_oW4Jd10HFFr",
+      "description": "Crazy Shadow 2",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Crazy_Shadow_2_oW4Jd10HFFr",
+      "faces_original": 23866,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Cream_Tieks_Italian_Leather_Ballet_Flats.ply",
+      "name": "Cream_Tieks_Italian_Leather_Ballet_Flats",
+      "description": "Cream Tieks - Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Cream_Tieks_Italian_Leather_Ballet_Flats",
+      "faces_original": 17216,
+      "faces_stored": 10000
+    },
+    {
+      "file": "DRAGON_W.ply",
+      "name": "DRAGON_W",
+      "description": "DRAGON W",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/DRAGON_W",
+      "faces_original": 18932,
+      "faces_stored": 10000
+    },
+    {
+      "file": "D_ROSE_45.ply",
+      "name": "D_ROSE_45",
+      "description": "D ROSE 4.5",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/D_ROSE_45",
+      "faces_original": 30974,
+      "faces_stored": 10000
+    },
+    {
+      "file": "D_ROSE_773_II_Kqclsph05pE.ply",
+      "name": "D_ROSE_773_II_Kqclsph05pE",
+      "description": "D ROSE 773 II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/D_ROSE_773_II_Kqclsph05pE",
+      "faces_original": 47688,
+      "faces_stored": 10000
+    },
+    {
+      "file": "D_ROSE_773_II_hvInJwJ5HUD.ply",
+      "name": "D_ROSE_773_II_hvInJwJ5HUD",
+      "description": "D ROSE 773 II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/D_ROSE_773_II_hvInJwJ5HUD",
+      "faces_original": 45804,
+      "faces_stored": 10000
+    },
+    {
+      "file": "D_ROSE_ENGLEWOOD_II.ply",
+      "name": "D_ROSE_ENGLEWOOD_II",
+      "description": "D ROSE ENGLEWOOD II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/D_ROSE_ENGLEWOOD_II",
+      "faces_original": 35868,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ENFR_MID_ENFORCER.ply",
+      "name": "ENFR_MID_ENFORCER",
+      "description": "ENFR MID (ENFORCER)",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ENFR_MID_ENFORCER",
+      "faces_original": 35714,
+      "faces_stored": 10000
+    },
+    {
+      "file": "F10_TRX_FG_ssscuo9tGxb.ply",
+      "name": "F10_TRX_FG_ssscuo9tGxb",
+      "description": "F10 TRX FG",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/F10_TRX_FG_ssscuo9tGxb",
+      "faces_original": 14708,
+      "faces_stored": 10000
+    },
+    {
+      "file": "F10_TRX_TF_rH7tmKCdUJq.ply",
+      "name": "F10_TRX_TF_rH7tmKCdUJq",
+      "description": "F10 TRX TF",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/F10_TRX_TF_rH7tmKCdUJq",
+      "faces_original": 19658,
+      "faces_stored": 10000
+    },
+    {
+      "file": "F5_TRX_FG.ply",
+      "name": "F5_TRX_FG",
+      "description": "F5 TRX FG",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/F5_TRX_FG",
+      "faces_original": 14248,
+      "faces_stored": 10000
+    },
+    {
+      "file": "FYW_ALTERNATION.ply",
+      "name": "FYW_ALTERNATION",
+      "description": "FYW ALTERNATION",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/FYW_ALTERNATION",
+      "faces_original": 33206,
+      "faces_stored": 10000
+    },
+    {
+      "file": "FYW_DIVISION.ply",
+      "name": "FYW_DIVISION",
+      "description": "FYW DIVISION",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/FYW_DIVISION",
+      "faces_original": 36812,
+      "faces_stored": 10000
+    },
+    {
+      "file": "GIRLS_DECKHAND.ply",
+      "name": "GIRLS_DECKHAND",
+      "description": "GIRLS DECKHAND",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/GIRLS_DECKHAND",
+      "faces_original": 18796,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Ghost_6_Color_BlckWhtLavaSlvrCitrus_Size_80.ply",
+      "name": "Ghost_6_Color_BlckWhtLavaSlvrCitrus_Size_80",
+      "description": "Ghost 6, Color: Blck/Wht/Lava/Slvr/Citrus, Size: 8.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Ghost_6_Color_BlckWhtLavaSlvrCitrus_Size_80",
+      "faces_original": 59036,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Ghost_6_Color_MdngtDenmPomBrtePnkSlvBlk_Size_50.ply",
+      "name": "Ghost_6_Color_MdngtDenmPomBrtePnkSlvBlk_Size_50",
+      "description": "Ghost 6, Color: Mdngt/Denm/Pom/BrtePnk/Slv/Blk, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Ghost_6_Color_MdngtDenmPomBrtePnkSlvBlk_Size_50",
+      "faces_original": 57462,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80.ply",
+      "name": "Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80",
+      "description": "Ghost 6 GTX, Color: Anth/Blck/Slvr/Fern/SulphSprng, Size: 8.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Ghost_6_GTX_Color_AnthBlckSlvrFernSulphSprng_Size_80",
+      "faces_original": 58118,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Glycerin_11_Color_AqrsDrsdnBluBlkSlvShckOrng_Size_50.ply",
+      "name": "Glycerin_11_Color_AqrsDrsdnBluBlkSlvShckOrng_Size_50",
+      "description": "Glycerin 11, Color: Aqrs/DrsdnBlu/Blk/Slv/ShckOrng, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Glycerin_11_Color_AqrsDrsdnBluBlkSlvShckOrng_Size_50",
+      "faces_original": 36936,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Glycerin_11_Color_BrllntBluSkydvrSlvrBlckWht_Size_80.ply",
+      "name": "Glycerin_11_Color_BrllntBluSkydvrSlvrBlckWht_Size_80",
+      "description": "Glycerin 11, Color: BrllntBlu/Skydvr/Slvr/Blck/Wht, Size: 8.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Glycerin_11_Color_BrllntBluSkydvrSlvrBlckWht_Size_80",
+      "faces_original": 42844,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Grand_Prix.ply",
+      "name": "Grand_Prix",
+      "description": "Grand Prix",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Grand_Prix",
+      "faces_original": 23248,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Great_Jones_Wingtip.ply",
+      "name": "Great_Jones_Wingtip",
+      "description": "Great Jones Wingtip",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Great_Jones_Wingtip",
+      "faces_original": 18656,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Great_Jones_Wingtip_j5NV8GRnitM.ply",
+      "name": "Great_Jones_Wingtip_j5NV8GRnitM",
+      "description": "Great Jones Wingtip",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Great_Jones_Wingtip_j5NV8GRnitM",
+      "faces_original": 22786,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Great_Jones_Wingtip_kAqSg6EgG0I.ply",
+      "name": "Great_Jones_Wingtip_kAqSg6EgG0I",
+      "description": "Great Jones Wingtip",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Great_Jones_Wingtip_kAqSg6EgG0I",
+      "faces_original": 22530,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Great_Jones_Wingtip_wxH3dbtlvBC.ply",
+      "name": "Great_Jones_Wingtip_wxH3dbtlvBC",
+      "description": "Great Jones Wingtip",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Great_Jones_Wingtip_wxH3dbtlvBC",
+      "faces_original": 18654,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Hilary.ply",
+      "name": "Hilary",
+      "description": "Hilary",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Hilary",
+      "faces_original": 12072,
+      "faces_stored": 10000
+    },
+    {
+      "file": "JS_WINGS_20_BLACK_FLAG.ply",
+      "name": "JS_WINGS_20_BLACK_FLAG",
+      "description": "JS WINGS 2.0 BLACK FLAG",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/JS_WINGS_20_BLACK_FLAG",
+      "faces_original": 34798,
+      "faces_stored": 10000
+    },
+    {
+      "file": "LEUCIPPUS_ADIPURE.ply",
+      "name": "LEUCIPPUS_ADIPURE",
+      "description": "LEUCIPPUS ADIPURE",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/LEUCIPPUS_ADIPURE",
+      "faces_original": 24908,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Lavender_Snake_Tieks_Snake_Print_Ballet_Flats.ply",
+      "name": "Lavender_Snake_Tieks_Snake_Print_Ballet_Flats",
+      "description": "Lavender Snake Tieks - Snake Print Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Lavender_Snake_Tieks_Snake_Print_Ballet_Flats",
+      "faces_original": 27246,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Lovestruck_Tieks_Glittery_Rose_Gold_Italian_Leather_Ballet_Flats.ply",
+      "name": "Lovestruck_Tieks_Glittery_Rose_Gold_Italian_Leather_Ballet_Flats",
+      "description": "Lovestruck Tieks - Glittery Rose Gold Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Lovestruck_Tieks_Glittery_Rose_Gold_Italian_Leather_Ballet_Flats",
+      "faces_original": 30450,
+      "faces_stored": 10000
+    },
+    {
+      "file": "MARTIN_WEDGE_LACE_BOOT.ply",
+      "name": "MARTIN_WEDGE_LACE_BOOT",
+      "description": "MARTIN WEDGE LACE BOOT",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/MARTIN_WEDGE_LACE_BOOT",
+      "faces_original": 27128,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Matte_Black_Tieks_Italian_Leather_Ballet_Flats.ply",
+      "name": "Matte_Black_Tieks_Italian_Leather_Ballet_Flats",
+      "description": "Matte Black Tieks - Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Matte_Black_Tieks_Italian_Leather_Ballet_Flats",
+      "faces_original": 22308,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_ASV_Billfish_Boat_Shoe_in_Dark_Brown_Leather_zdHVHXueI3w.ply",
+      "name": "Mens_ASV_Billfish_Boat_Shoe_in_Dark_Brown_Leather_zdHVHXueI3w",
+      "description": "Men's ASV Billfish Boat Shoe in Dark Brown Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_ASV_Billfish_Boat_Shoe_in_Dark_Brown_Leather_zdHVHXueI3w",
+      "faces_original": 21364,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_ASV_Billfish_Boat_Shoe_in_Tan_Leather_wmUJ5PbwANc.ply",
+      "name": "Mens_ASV_Billfish_Boat_Shoe_in_Tan_Leather_wmUJ5PbwANc",
+      "description": "Men's ASV Billfish Boat Shoe in Tan Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_ASV_Billfish_Boat_Shoe_in_Tan_Leather_wmUJ5PbwANc",
+      "faces_original": 21110,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_ASV_Shock_Light_Bungee_in_Light_Grey_xGCOvtLDnQJ.ply",
+      "name": "Mens_ASV_Shock_Light_Bungee_in_Light_Grey_xGCOvtLDnQJ",
+      "description": "Men's ASV Shock Light Bungee in Light Grey",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_ASV_Shock_Light_Bungee_in_Light_Grey_xGCOvtLDnQJ",
+      "faces_original": 38368,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_NHHQddDLQys.ply",
+      "name": "Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_NHHQddDLQys",
+      "description": "Men's Authentic Original Boat Shoe in Navy Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_NHHQddDLQys",
+      "faces_original": 28948,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_RpT4GvUXRRP.ply",
+      "name": "Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_RpT4GvUXRRP",
+      "description": "Men's Authentic Original Boat Shoe in Navy Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_RpT4GvUXRRP",
+      "faces_original": 19030,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH.ply",
+      "name": "Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH",
+      "description": "Men's Authentic Original Boat Shoe in Navy Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Authentic_Original_Boat_Shoe_in_Navy_Leather_xgoEcZtRNmH",
+      "faces_original": 19012,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Bahama_in_Black_b4ADzYywRHl.ply",
+      "name": "Mens_Bahama_in_Black_b4ADzYywRHl",
+      "description": "Men's Bahama in Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Bahama_in_Black_b4ADzYywRHl",
+      "faces_original": 21270,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Bahama_in_Khaki_Oyster_xU2jeqYwhQJ.ply",
+      "name": "Mens_Bahama_in_Khaki_Oyster_xU2jeqYwhQJ",
+      "description": "Men's Bahama in Khaki Oyster",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Bahama_in_Khaki_Oyster_xU2jeqYwhQJ",
+      "faces_original": 20600,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Bahama_in_White_vSwvGMCo32f.ply",
+      "name": "Mens_Bahama_in_White_vSwvGMCo32f",
+      "description": "Men's Bahama in White",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Bahama_in_White_vSwvGMCo32f",
+      "faces_original": 23030,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Billfish_3Eye_Boat_Shoe_in_Dark_Tan_wyns9HRcEuH.ply",
+      "name": "Mens_Billfish_3Eye_Boat_Shoe_in_Dark_Tan_wyns9HRcEuH",
+      "description": "Men's Billfish 3-Eye Boat Shoe in Dark Tan",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Billfish_3Eye_Boat_Shoe_in_Dark_Tan_wyns9HRcEuH",
+      "faces_original": 23618,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Billfish_Slip_On_in_Coffee_e8bPKE9Lfgo.ply",
+      "name": "Mens_Billfish_Slip_On_in_Coffee_e8bPKE9Lfgo",
+      "description": "Men's Billfish Slip On in Coffee",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Billfish_Slip_On_in_Coffee_e8bPKE9Lfgo",
+      "faces_original": 21450,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Billfish_Slip_On_in_Coffee_nK6AJJAHOae.ply",
+      "name": "Mens_Billfish_Slip_On_in_Coffee_nK6AJJAHOae",
+      "description": "Men's Billfish Slip On in Coffee",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Billfish_Slip_On_in_Coffee_nK6AJJAHOae",
+      "faces_original": 19276,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Billfish_Slip_On_in_Tan_Beige_aaVUk0tNTv8.ply",
+      "name": "Mens_Billfish_Slip_On_in_Tan_Beige_aaVUk0tNTv8",
+      "description": "Men's Billfish Slip On in Tan Beige",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Billfish_Slip_On_in_Tan_Beige_aaVUk0tNTv8",
+      "faces_original": 19680,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Billfish_Ultra_Lite_Boat_Shoe_in_Dark_Brown_Blue_c6zDZTtRJr6.ply",
+      "name": "Mens_Billfish_Ultra_Lite_Boat_Shoe_in_Dark_Brown_Blue_c6zDZTtRJr6",
+      "description": "Men's Billfish Ultra Lite Boat Shoe in Dark Brown / Blue",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Billfish_Ultra_Lite_Boat_Shoe_in_Dark_Brown_Blue_c6zDZTtRJr6",
+      "faces_original": 32020,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Gold_Cup_ASV_2Eye_Boat_Shoe_in_Cognac_Leather.ply",
+      "name": "Mens_Gold_Cup_ASV_2Eye_Boat_Shoe_in_Cognac_Leather",
+      "description": "Men's Gold Cup ASV 2-Eye Boat Shoe in Cognac Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Gold_Cup_ASV_2Eye_Boat_Shoe_in_Cognac_Leather",
+      "faces_original": 24598,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Gold_Cup_ASV_Capetown_Penny_Loafer_in_Black_EjPnk3E8fCs.ply",
+      "name": "Mens_Gold_Cup_ASV_Capetown_Penny_Loafer_in_Black_EjPnk3E8fCs",
+      "description": "Men's Gold Cup ASV Capetown Penny Loafer in Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Gold_Cup_ASV_Capetown_Penny_Loafer_in_Black_EjPnk3E8fCs",
+      "faces_original": 28192,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Gold_Cup_ASV_Capetown_Penny_Loafer_in_Black_GkQBKqABeQN.ply",
+      "name": "Mens_Gold_Cup_ASV_Capetown_Penny_Loafer_in_Black_GkQBKqABeQN",
+      "description": "Men's Gold Cup ASV Capetown Penny Loafer in Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Gold_Cup_ASV_Capetown_Penny_Loafer_in_Black_GkQBKqABeQN",
+      "faces_original": 25360,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Gold_Cup_ASV_Dress_Casual_Venetian_in_Dark_Brown_Leather.ply",
+      "name": "Mens_Gold_Cup_ASV_Dress_Casual_Venetian_in_Dark_Brown_Leather",
+      "description": "Men's Gold Cup ASV Dress Casual Venetian in Dark Brown Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Gold_Cup_ASV_Dress_Casual_Venetian_in_Dark_Brown_Leather",
+      "faces_original": 20090,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Largo_Slip_On_in_Taupe_gooyS417q4R.ply",
+      "name": "Mens_Largo_Slip_On_in_Taupe_gooyS417q4R",
+      "description": "Men's Largo Slip On in Taupe",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Largo_Slip_On_in_Taupe_gooyS417q4R",
+      "faces_original": 19398,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_Coffee_9d05GG33QQQ.ply",
+      "name": "Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_Coffee_9d05GG33QQQ",
+      "description": "Men's Mako Canoe Moc 2-Eye Boat Shoe in Coffee",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_Coffee_9d05GG33QQQ",
+      "faces_original": 20804,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_Coffee_K9e8FoV73uZ.ply",
+      "name": "Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_Coffee_K9e8FoV73uZ",
+      "description": "Men's Mako Canoe Moc 2-Eye Boat Shoe in Coffee",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_Coffee_K9e8FoV73uZ",
+      "faces_original": 21168,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_OysterTaupe_otyRrfvPMiA.ply",
+      "name": "Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_OysterTaupe_otyRrfvPMiA",
+      "description": "Men's Mako Canoe Moc 2-Eye Boat Shoe in Oyster/Taupe",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Mako_Canoe_Moc_2Eye_Boat_Shoe_in_OysterTaupe_otyRrfvPMiA",
+      "faces_original": 17868,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_RR_Moc_in_Navy_Suede_vmFfijhBzL3.ply",
+      "name": "Mens_RR_Moc_in_Navy_Suede_vmFfijhBzL3",
+      "description": "Men's R&R Moc in Navy Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_RR_Moc_in_Navy_Suede_vmFfijhBzL3",
+      "faces_original": 19406,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Santa_Cruz_Thong_in_Chocolate_La1fo2mAovE.ply",
+      "name": "Mens_Santa_Cruz_Thong_in_Chocolate_La1fo2mAovE",
+      "description": "Men's Santa Cruz Thong in Chocolate",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Santa_Cruz_Thong_in_Chocolate_La1fo2mAovE",
+      "faces_original": 10358,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Santa_Cruz_Thong_in_Chocolate_lvxYW7lek6B.ply",
+      "name": "Mens_Santa_Cruz_Thong_in_Chocolate_lvxYW7lek6B",
+      "description": "Men's Santa Cruz Thong in Chocolate",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Santa_Cruz_Thong_in_Chocolate_lvxYW7lek6B",
+      "faces_original": 11674,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Santa_Cruz_Thong_in_Tan_r59C69daRPh.ply",
+      "name": "Mens_Santa_Cruz_Thong_in_Tan_r59C69daRPh",
+      "description": "Men's Santa Cruz Thong in Tan",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Santa_Cruz_Thong_in_Tan_r59C69daRPh",
+      "faces_original": 11918,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Striper_Sneaker_in_White_rnp8HUli59Y.ply",
+      "name": "Mens_Striper_Sneaker_in_White_rnp8HUli59Y",
+      "description": "Men's Striper Sneaker in White",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Striper_Sneaker_in_White_rnp8HUli59Y",
+      "faces_original": 27882,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto.ply",
+      "name": "Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto",
+      "description": "Men's Tremont Kiltie Tassel Loafer in Black Amaretto",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto",
+      "faces_original": 29246,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto_FT0I9OjSA6O.ply",
+      "name": "Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto_FT0I9OjSA6O",
+      "description": "Men's Tremont Kiltie Tassel Loafer in Black Amaretto",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto_FT0I9OjSA6O",
+      "faces_original": 44822,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto_rCdzRZqgCnI.ply",
+      "name": "Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto_rCdzRZqgCnI",
+      "description": "Men's Tremont Kiltie Tassel Loafer in Black Amaretto",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Tremont_Kiltie_Tassel_Loafer_in_Black_Amaretto_rCdzRZqgCnI",
+      "faces_original": 34070,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Mens_Wave_Driver_Kiltie_Moc_in_Tan_Leather.ply",
+      "name": "Mens_Wave_Driver_Kiltie_Moc_in_Tan_Leather",
+      "description": "Men's Wave Driver Kiltie Moc in Tan Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Mens_Wave_Driver_Kiltie_Moc_in_Tan_Leather",
+      "faces_original": 24036,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Metallic_Gold_Tieks_Italian_Leather_Ballet_Flats.ply",
+      "name": "Metallic_Gold_Tieks_Italian_Leather_Ballet_Flats",
+      "description": "Metallic Gold Tieks - Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Metallic_Gold_Tieks_Italian_Leather_Ballet_Flats",
+      "faces_original": 22072,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Metallic_Pewter_Tieks_Italian_Leather_Ballet_Flats.ply",
+      "name": "Metallic_Pewter_Tieks_Italian_Leather_Ballet_Flats",
+      "description": "Metallic Pewter Tieks - Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Metallic_Pewter_Tieks_Italian_Leather_Ballet_Flats",
+      "faces_original": 20080,
+      "faces_stored": 10000
+    },
+    {
+      "file": "NAPA_VALLEY_NAVAJO_SANDAL.ply",
+      "name": "NAPA_VALLEY_NAVAJO_SANDAL",
+      "description": "NAPA VALLEY NAVAJO SANDAL",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/NAPA_VALLEY_NAVAJO_SANDAL",
+      "faces_original": 12446,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PHEEHAN_RUN.ply",
+      "name": "PHEEHAN_RUN",
+      "description": "PHEEHAN RUN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PHEEHAN_RUN",
+      "faces_original": 33016,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Predator_LZ_TRX_FG.ply",
+      "name": "Predator_LZ_TRX_FG",
+      "description": "Predator LZ TRX FG",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Predator_LZ_TRX_FG",
+      "faces_original": 22122,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Predito_LZ_TRX_FG_W.ply",
+      "name": "Predito_LZ_TRX_FG_W",
+      "description": "Predito LZ TRX FG W",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Predito_LZ_TRX_FG_W",
+      "faces_original": 24280,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70.ply",
+      "name": "PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70",
+      "description": "PureCadence 2, Color: HiRskRed/Nghtlf/eSlvr/Blck/Wht, Size: 7.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PureCadence_2_Color_HiRskRedNghtlfeSlvrBlckWht_Size_70",
+      "faces_original": 37382,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PureCadence_2_Color_TleBluLmePnchSlvMoodIndgWh_Size_50_EEzAfcBfHHO.ply",
+      "name": "PureCadence_2_Color_TleBluLmePnchSlvMoodIndgWh_Size_50_EEzAfcBfHHO",
+      "description": "PureCadence 2, Color: TleBlu/LmePnch/Slv/MoodIndg/Wh, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PureCadence_2_Color_TleBluLmePnchSlvMoodIndgWh_Size_50_EEzAfcBfHHO",
+      "faces_original": 35224,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50.ply",
+      "name": "PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50",
+      "description": "PureConnect 2, Color: Anthrcte/KnckoutPnk/GrnGecko, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PureConnect_2_Color_AnthrcteKnckoutPnkGrnGecko_Size_50",
+      "faces_original": 29120,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PureConnect_2_Color_BlckBrllntBluNghtlfeAnthrct_Size_70.ply",
+      "name": "PureConnect_2_Color_BlckBrllntBluNghtlfeAnthrct_Size_70",
+      "description": "PureConnect 2, Color: Blck/BrllntBlu/Nghtlfe/Anthrct, Size: 7.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PureConnect_2_Color_BlckBrllntBluNghtlfeAnthrct_Size_70",
+      "faces_original": 33976,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PureConnect_2_Color_FernNightlifeSilverBlack_Size_70_5w0BYsiogeV.ply",
+      "name": "PureConnect_2_Color_FernNightlifeSilverBlack_Size_70_5w0BYsiogeV",
+      "description": "PureConnect 2, Color: Fern/Nightlife/Silver/Black, Size: 7.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PureConnect_2_Color_FernNightlifeSilverBlack_Size_70_5w0BYsiogeV",
+      "faces_original": 30128,
+      "faces_stored": 10000
+    },
+    {
+      "file": "PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50.ply",
+      "name": "PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50",
+      "description": "PureFlow 2, Color: RylPur/Hibiscus/Blk/Slvr/Wht, Size: 5.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/PureFlow_2_Color_RylPurHibiscusBlkSlvrWht_Size_50",
+      "faces_original": 26280,
+      "faces_stored": 10000
+    },
+    {
+      "file": "REEF_BANTU.ply",
+      "name": "REEF_BANTU",
+      "description": "REEF BANTU",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/REEF_BANTU",
+      "faces_original": 25130,
+      "faces_stored": 10000
+    },
+    {
+      "file": "REEF_BRAIDED_CUSHION.ply",
+      "name": "REEF_BRAIDED_CUSHION",
+      "description": "REEF BRAIDED CUSHION",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/REEF_BRAIDED_CUSHION",
+      "faces_original": 22626,
+      "faces_stored": 10000
+    },
+    {
+      "file": "REEF_ZENFUN.ply",
+      "name": "REEF_ZENFUN",
+      "description": "REEF ZENFUN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/REEF_ZENFUN",
+      "faces_original": 26068,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Ravenna_4_Color_WhtOlyBluBlkShkOrngSlvRdO_Size_70.ply",
+      "name": "Ravenna_4_Color_WhtOlyBluBlkShkOrngSlvRdO_Size_70",
+      "description": "Ravenna 4, Color: Wht/OlyBlu/Blk/ShkOrng/Slv/RdO, Size: 7.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Ravenna_4_Color_WhtOlyBluBlkShkOrngSlvRdO_Size_70",
+      "faces_original": 65146,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Rayna_BootieWP.ply",
+      "name": "Rayna_BootieWP",
+      "description": "Rayna Bootie.WP",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Rayna_BootieWP",
+      "faces_original": 12754,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Real_Deal_1nIwCHX1MTh.ply",
+      "name": "Real_Deal_1nIwCHX1MTh",
+      "description": "Real Deal",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Real_Deal_1nIwCHX1MTh",
+      "faces_original": 37872,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ALLYLYNN.ply",
+      "name": "Reebok_ALLYLYNN",
+      "description": "Reebok ALLYLYNN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ALLYLYNN",
+      "faces_original": 30270,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_BREAKPOINT_LO_2V.ply",
+      "name": "Reebok_BREAKPOINT_LO_2V",
+      "description": "Reebok BREAKPOINT LO 2V",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_BREAKPOINT_LO_2V",
+      "faces_original": 32522,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_BREAKPOINT_MID.ply",
+      "name": "Reebok_BREAKPOINT_MID",
+      "description": "Reebok BREAKPOINT MID",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_BREAKPOINT_MID",
+      "faces_original": 25834,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_CLASSIC_JOGGER.ply",
+      "name": "Reebok_CLASSIC_JOGGER",
+      "description": "Reebok CLASSIC JOGGER",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_CLASSIC_JOGGER",
+      "faces_original": 20090,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_CLASSIC_LEGACY_II.ply",
+      "name": "Reebok_CLASSIC_LEGACY_II",
+      "description": "Reebok CLASSIC LEGACY II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_CLASSIC_LEGACY_II",
+      "faces_original": 24810,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_CL_DIBELLO_II.ply",
+      "name": "Reebok_CL_DIBELLO_II",
+      "description": "Reebok CL DIBELLO II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_CL_DIBELLO_II",
+      "faces_original": 31018,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_CL_LTHR_R12.ply",
+      "name": "Reebok_CL_LTHR_R12",
+      "description": "Reebok CL LTHR R12",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_CL_LTHR_R12",
+      "faces_original": 25680,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_CL_RAYEN.ply",
+      "name": "Reebok_CL_RAYEN",
+      "description": "Reebok CL RAYEN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_CL_RAYEN",
+      "faces_original": 24400,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_COMFORT_REEFRESH_FLIP.ply",
+      "name": "Reebok_COMFORT_REEFRESH_FLIP",
+      "description": "Reebok COMFORT REEFRESH FLIP",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_COMFORT_REEFRESH_FLIP",
+      "faces_original": 14902,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_DMX_MAX_MANIA_WD_D.ply",
+      "name": "Reebok_DMX_MAX_MANIA_WD_D",
+      "description": "Reebok DMX MAX MANIA WD D",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_DMX_MAX_MANIA_WD_D",
+      "faces_original": 22114,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_DMX_MAX_PLUS_ATHLETIC.ply",
+      "name": "Reebok_DMX_MAX_PLUS_ATHLETIC",
+      "description": "Reebok DMX MAX PLUS ATHLETIC",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_DMX_MAX_PLUS_ATHLETIC",
+      "faces_original": 27920,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_DMX_MAX_PLUS_RAINWALKER.ply",
+      "name": "Reebok_DMX_MAX_PLUS_RAINWALKER",
+      "description": "Reebok DMX MAX PLUS RAINWALKER",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_DMX_MAX_PLUS_RAINWALKER",
+      "faces_original": 27446,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_EASYTONE_CL_LEATHER.ply",
+      "name": "Reebok_EASYTONE_CL_LEATHER",
+      "description": "Reebok EASYTONE CL LEATHER",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_EASYTONE_CL_LEATHER",
+      "faces_original": 17784,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_FS_HI_INT_R12.ply",
+      "name": "Reebok_FS_HI_INT_R12",
+      "description": "Reebok F/S HI INT R12",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_FS_HI_INT_R12",
+      "faces_original": 30106,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_FS_HI_MINI.ply",
+      "name": "Reebok_FS_HI_MINI",
+      "description": "Reebok F/S HI MINI",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_FS_HI_MINI",
+      "faces_original": 25484,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_FUELTRAIN.ply",
+      "name": "Reebok_FUELTRAIN",
+      "description": "Reebok FUELTRAIN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_FUELTRAIN",
+      "faces_original": 27552,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_GL_6000.ply",
+      "name": "Reebok_GL_6000",
+      "description": "Reebok GL 6000",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_GL_6000",
+      "faces_original": 24766,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_HIMARA_LTR.ply",
+      "name": "Reebok_HIMARA_LTR",
+      "description": "Reebok HIMARA LTR",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_HIMARA_LTR",
+      "faces_original": 28674,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_JR_ZIG_COOPERSTOWN_MR.ply",
+      "name": "Reebok_JR_ZIG_COOPERSTOWN_MR",
+      "description": "Reebok JR ZIG COOPERSTOWN MR",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_JR_ZIG_COOPERSTOWN_MR",
+      "faces_original": 40952,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_KAMIKAZE_II_MID.ply",
+      "name": "Reebok_KAMIKAZE_II_MID",
+      "description": "Reebok KAMIKAZE II MID",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_KAMIKAZE_II_MID",
+      "faces_original": 23646,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_PUMP_OMNI_LITE_HLS.ply",
+      "name": "Reebok_PUMP_OMNI_LITE_HLS",
+      "description": "Reebok PUMP OMNI LITE HLS",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_PUMP_OMNI_LITE_HLS",
+      "faces_original": 49318,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_REALFLEX_SELECT.ply",
+      "name": "Reebok_REALFLEX_SELECT",
+      "description": "Reebok REALFLEX SELECT",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_REALFLEX_SELECT",
+      "faces_original": 26914,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_REESCULPT_TRAINER_II.ply",
+      "name": "Reebok_REESCULPT_TRAINER_II",
+      "description": "Reebok REESCULPT TRAINER II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_REESCULPT_TRAINER_II",
+      "faces_original": 22258,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_RETRO_RUSH_2V.ply",
+      "name": "Reebok_RETRO_RUSH_2V",
+      "description": "Reebok RETRO RUSH 2V",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_RETRO_RUSH_2V",
+      "faces_original": 19990,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_R_CROSSFIT_OLY_UFORM.ply",
+      "name": "Reebok_R_CROSSFIT_OLY_UFORM",
+      "description": "Reebok R CROSSFIT OLY U-FORM",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_R_CROSSFIT_OLY_UFORM",
+      "faces_original": 32096,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_R_DANCE_FLASH.ply",
+      "name": "Reebok_R_DANCE_FLASH",
+      "description": "Reebok R DANCE FLASH",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_R_DANCE_FLASH",
+      "faces_original": 34902,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SH_COURT_MID_II.ply",
+      "name": "Reebok_SH_COURT_MID_II",
+      "description": "Reebok SH COURT MID II",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SH_COURT_MID_II",
+      "faces_original": 28546,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SH_NEWPORT_LOW.ply",
+      "name": "Reebok_SH_NEWPORT_LOW",
+      "description": "Reebok SH NEWPORT LOW",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SH_NEWPORT_LOW",
+      "faces_original": 19432,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SH_PRIME_COURT_LOW.ply",
+      "name": "Reebok_SH_PRIME_COURT_LOW",
+      "description": "Reebok SH PRIME COURT LOW",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SH_PRIME_COURT_LOW",
+      "faces_original": 24708,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SH_PRIME_COURT_MID.ply",
+      "name": "Reebok_SH_PRIME_COURT_MID",
+      "description": "Reebok SH PRIME COURT MID",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SH_PRIME_COURT_MID",
+      "faces_original": 33582,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SL_FLIP_UPDATE.ply",
+      "name": "Reebok_SL_FLIP_UPDATE",
+      "description": "Reebok SL FLIP UPDATE",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SL_FLIP_UPDATE",
+      "faces_original": 22734,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SMOOTHFLEX_CUSHRUN_20.ply",
+      "name": "Reebok_SMOOTHFLEX_CUSHRUN_20",
+      "description": "Reebok SMOOTHFLEX CUSHRUN 2.0",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SMOOTHFLEX_CUSHRUN_20",
+      "faces_original": 55096,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_SOMERSET_RUN.ply",
+      "name": "Reebok_SOMERSET_RUN",
+      "description": "Reebok SOMERSET RUN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_SOMERSET_RUN",
+      "faces_original": 32926,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_STUDIO_BEAT_LOW_V.ply",
+      "name": "Reebok_STUDIO_BEAT_LOW_V",
+      "description": "Reebok STUDIO BEAT LOW V",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_STUDIO_BEAT_LOW_V",
+      "faces_original": 33052,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_TRIPLE_BREAK_LITE.ply",
+      "name": "Reebok_TRIPLE_BREAK_LITE",
+      "description": "Reebok TRIPLE BREAK LITE",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_TRIPLE_BREAK_LITE",
+      "faces_original": 14528,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_TURBO_RC.ply",
+      "name": "Reebok_TURBO_RC",
+      "description": "Reebok TURBO RC",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_TURBO_RC",
+      "faces_original": 28818,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ULTIMATIC_2V.ply",
+      "name": "Reebok_ULTIMATIC_2V",
+      "description": "Reebok ULTIMATIC 2V",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ULTIMATIC_2V",
+      "faces_original": 33366,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_VERSA_TRAIN.ply",
+      "name": "Reebok_VERSA_TRAIN",
+      "description": "Reebok VERSA TRAIN",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_VERSA_TRAIN",
+      "faces_original": 39860,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ZIGCOOPERSTOWN_QUAG.ply",
+      "name": "Reebok_ZIGCOOPERSTOWN_QUAG",
+      "description": "Reebok ZIGCOOPERSTOWN QUAG",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ZIGCOOPERSTOWN_QUAG",
+      "faces_original": 40876,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ZIGLITE_RUSH.ply",
+      "name": "Reebok_ZIGLITE_RUSH",
+      "description": "Reebok ZIGLITE RUSH",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ZIGLITE_RUSH",
+      "faces_original": 37146,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ZIGLITE_RUSH_AC.ply",
+      "name": "Reebok_ZIGLITE_RUSH_AC",
+      "description": "Reebok ZIGLITE RUSH AC",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ZIGLITE_RUSH_AC",
+      "faces_original": 22490,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ZIGSTORM.ply",
+      "name": "Reebok_ZIGSTORM",
+      "description": "Reebok ZIGSTORM",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ZIGSTORM",
+      "faces_original": 23022,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reebok_ZIGTECH_SHARK_MAYHEM360.ply",
+      "name": "Reebok_ZIGTECH_SHARK_MAYHEM360",
+      "description": "Reebok ZIGTECH SHARK MAYHEM360",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reebok_ZIGTECH_SHARK_MAYHEM360",
+      "faces_original": 29884,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Reef_Star_Cushion_Flipflops_Size_8_Black.ply",
+      "name": "Reef_Star_Cushion_Flipflops_Size_8_Black",
+      "description": "Reef Star Cushion Flipflops, Size 8, Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Reef_Star_Cushion_Flipflops_Size_8_Black",
+      "faces_original": 13916,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats.ply",
+      "name": "Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats",
+      "description": "Romantic Blush Tieks - Metallic Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Romantic_Blush_Tieks_Metallic_Italian_Leather_Ballet_Flats",
+      "faces_original": 20168,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes.ply",
+      "name": "Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes",
+      "description": "Rose Garden Tieks - Leather Ballet Flats with Floral Rosettes",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Rose_Garden_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes",
+      "faces_original": 43880,
+      "faces_stored": 10000
+    },
+    {
+      "file": "SAMBA_HEMP.ply",
+      "name": "SAMBA_HEMP",
+      "description": "SAMBA HEMP",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/SAMBA_HEMP",
+      "faces_original": 28556,
+      "faces_stored": 10000
+    },
+    {
+      "file": "SAMOA.ply",
+      "name": "SAMOA",
+      "description": "SAMOA",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/SAMOA",
+      "faces_original": 25698,
+      "faces_stored": 10000
+    },
+    {
+      "file": "SLACK_CRUISER.ply",
+      "name": "SLACK_CRUISER",
+      "description": "SLACK CRUISER",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/SLACK_CRUISER",
+      "faces_original": 24796,
+      "faces_stored": 10000
+    },
+    {
+      "file": "SUPERSTAR_CLR.ply",
+      "name": "SUPERSTAR_CLR",
+      "description": "SUPERSTAR CLR",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/SUPERSTAR_CLR",
+      "faces_original": 46090,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Samoa_onepiece.ply",
+      "name": "Samoa_onepiece",
+      "description": "Samoa (one-piece)",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Samoa_onepiece",
+      "faces_original": 24064,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Santa_Cruz_Mens.ply",
+      "name": "Santa_Cruz_Mens",
+      "description": "Santa Cruz Mens",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Santa_Cruz_Mens",
+      "faces_original": 22024,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Santa_Cruz_Mens_G7kQXK7cIky.ply",
+      "name": "Santa_Cruz_Mens_G7kQXK7cIky",
+      "description": "Santa Cruz Mens",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Santa_Cruz_Mens_G7kQXK7cIky",
+      "faces_original": 21024,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Santa_Cruz_Mens_YmsMDkFf11Z.ply",
+      "name": "Santa_Cruz_Mens_YmsMDkFf11Z",
+      "description": "Santa Cruz Mens",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Santa_Cruz_Mens_YmsMDkFf11Z",
+      "faces_original": 22054,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Santa_Cruz_Mens_umxTczr1Ygg.ply",
+      "name": "Santa_Cruz_Mens_umxTczr1Ygg",
+      "description": "Santa Cruz Mens",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Santa_Cruz_Mens_umxTczr1Ygg",
+      "faces_original": 21310,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Santa_Cruz_Mens_vnbiTDDt5xH.ply",
+      "name": "Santa_Cruz_Mens_vnbiTDDt5xH",
+      "description": "Santa Cruz Mens",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Santa_Cruz_Mens_vnbiTDDt5xH",
+      "faces_original": 29050,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats.ply",
+      "name": "Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats",
+      "description": "Sienna Brown Croc Tieks - Patent Leather Crocodile Print Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Sienna_Brown_Croc_Tieks_Patent_Leather_Crocodile_Print_Ballet_Flats",
+      "faces_original": 21468,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Sperry_TopSider_pSUFPWQXPp3.ply",
+      "name": "Sperry_TopSider_pSUFPWQXPp3",
+      "description": "Sperry Top-Sider",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Sperry_TopSider_pSUFPWQXPp3",
+      "faces_original": 14890,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Sperry_TopSider_tNB9t6YBUf3.ply",
+      "name": "Sperry_TopSider_tNB9t6YBUf3",
+      "description": "Sperry Top-Sider",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Sperry_TopSider_tNB9t6YBUf3",
+      "faces_original": 12712,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Starstruck_Tieks_Glittery_Gold_Italian_Leather_Ballet_Flats.ply",
+      "name": "Starstruck_Tieks_Glittery_Gold_Italian_Leather_Ballet_Flats",
+      "description": "Starstruck Tieks - Glittery Gold Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Starstruck_Tieks_Glittery_Gold_Italian_Leather_Ballet_Flats",
+      "faces_original": 29670,
+      "faces_stored": 10000
+    },
+    {
+      "file": "TERREX_FAST_R.ply",
+      "name": "TERREX_FAST_R",
+      "description": "TERREX FAST R",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/TERREX_FAST_R",
+      "faces_original": 39346,
+      "faces_stored": 10000
+    },
+    {
+      "file": "TERREX_FAST_X_GTX.ply",
+      "name": "TERREX_FAST_X_GTX",
+      "description": "TERREX FAST X GTX",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/TERREX_FAST_X_GTX",
+      "faces_original": 36824,
+      "faces_stored": 10000
+    },
+    {
+      "file": "TOP_TEN_HI.ply",
+      "name": "TOP_TEN_HI",
+      "description": "TOP TEN HI",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/TOP_TEN_HI",
+      "faces_original": 36802,
+      "faces_stored": 10000
+    },
+    {
+      "file": "TOP_TEN_HI_60KlbRbdoJA.ply",
+      "name": "TOP_TEN_HI_60KlbRbdoJA",
+      "description": "TOP TEN HI",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/TOP_TEN_HI_60KlbRbdoJA",
+      "faces_original": 36504,
+      "faces_stored": 10000
+    },
+    {
+      "file": "TROCHILUS_BOOST.ply",
+      "name": "TROCHILUS_BOOST",
+      "description": "TROCHILUS BOOST",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/TROCHILUS_BOOST",
+      "faces_original": 36728,
+      "faces_stored": 10000
+    },
+    {
+      "file": "TZX_Runner.ply",
+      "name": "TZX_Runner",
+      "description": "T-ZX Runner",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/TZX_Runner",
+      "faces_original": 40238,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Tiek_Blue_Patent_Tieks_Italian_Leather_Ballet_Flats.ply",
+      "name": "Tiek_Blue_Patent_Tieks_Italian_Leather_Ballet_Flats",
+      "description": "Tiek Blue Patent Tieks - Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tiek_Blue_Patent_Tieks_Italian_Leather_Ballet_Flats",
+      "faces_original": 21096,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Tieks_Ballet_Flats_Diamond_White_Croc.ply",
+      "name": "Tieks_Ballet_Flats_Diamond_White_Croc",
+      "description": "Tieks Ballet Flats, Diamond White Croc",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tieks_Ballet_Flats_Diamond_White_Croc",
+      "faces_original": 22612,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Tieks_Ballet_Flats_Electric_Snake.ply",
+      "name": "Tieks_Ballet_Flats_Electric_Snake",
+      "description": "Tieks Ballet Flats, Electric Snake",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tieks_Ballet_Flats_Electric_Snake",
+      "faces_original": 20538,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Classic_2Eye_Boat_Shoe.ply",
+      "name": "Timberland_Mens_Classic_2Eye_Boat_Shoe",
+      "description": "Timberland Men's Classic 2-Eye Boat Shoe",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Classic_2Eye_Boat_Shoe",
+      "faces_original": 24314,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Casco_Bay_Canvas_Oxford.ply",
+      "name": "Timberland_Mens_Earthkeepers_Casco_Bay_Canvas_Oxford",
+      "description": "Timberland Men's Earthkeepers Casco Bay Canvas Oxford",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Casco_Bay_Canvas_Oxford",
+      "faces_original": 27704,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Casco_Bay_Canvas_SlipOn.ply",
+      "name": "Timberland_Mens_Earthkeepers_Casco_Bay_Canvas_SlipOn",
+      "description": "Timberland Men's Earthkeepers Casco Bay Canvas Slip-On",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Casco_Bay_Canvas_SlipOn",
+      "faces_original": 29278,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Casco_Bay_Suede_1Eye.ply",
+      "name": "Timberland_Mens_Earthkeepers_Casco_Bay_Suede_1Eye",
+      "description": "Timberland Men's Earthkeepers Casco Bay Suede 1-Eye",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Casco_Bay_Suede_1Eye",
+      "faces_original": 32620,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Heritage_2Eye_Boat_Shoe.ply",
+      "name": "Timberland_Mens_Earthkeepers_Heritage_2Eye_Boat_Shoe",
+      "description": "Timberland Men's Earthkeepers Heritage 2-Eye Boat Shoe",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Heritage_2Eye_Boat_Shoe",
+      "faces_original": 19778,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Newmarket_6Inch_Cupsole_Boot.ply",
+      "name": "Timberland_Mens_Earthkeepers_Newmarket_6Inch_Cupsole_Boot",
+      "description": "Timberland Men's Earthkeepers Newmarket 6-Inch Cupsole Boot",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Newmarket_6Inch_Cupsole_Boot",
+      "faces_original": 16976,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Stormbuck_Chukka.ply",
+      "name": "Timberland_Mens_Earthkeepers_Stormbuck_Chukka",
+      "description": "Timberland Men's Earthkeepers Stormbuck Chukka",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Stormbuck_Chukka",
+      "faces_original": 18420,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Stormbuck_Lite_Plain_Toe_Oxford.ply",
+      "name": "Timberland_Mens_Earthkeepers_Stormbuck_Lite_Plain_Toe_Oxford",
+      "description": "Timberland Men's Earthkeepers Stormbuck Lite Plain Toe Oxford",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Stormbuck_Lite_Plain_Toe_Oxford",
+      "faces_original": 17872,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Mens_Earthkeepers_Stormbuck_Plain_Toe_Oxford.ply",
+      "name": "Timberland_Mens_Earthkeepers_Stormbuck_Plain_Toe_Oxford",
+      "description": "Timberland Men's Earthkeepers Stormbuck Plain Toe Oxford",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Mens_Earthkeepers_Stormbuck_Plain_Toe_Oxford",
+      "faces_original": 28750,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Womens_Classic_Amherst_2Eye_Boat_Shoe.ply",
+      "name": "Timberland_Womens_Classic_Amherst_2Eye_Boat_Shoe",
+      "description": "Timberland Women's Classic Amherst 2-Eye Boat Shoe",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Womens_Classic_Amherst_2Eye_Boat_Shoe",
+      "faces_original": 28578,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Womens_Earthkeepers_Classic_Unlined_Boat_Shoe.ply",
+      "name": "Timberland_Womens_Earthkeepers_Classic_Unlined_Boat_Shoe",
+      "description": "Timberland Women's Earthkeepers Classic Unlined Boat Shoe",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Womens_Earthkeepers_Classic_Unlined_Boat_Shoe",
+      "faces_original": 15342,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Timberland_Womens_Waterproof_Nellie_Chukka_Double.ply",
+      "name": "Timberland_Womens_Waterproof_Nellie_Chukka_Double",
+      "description": "Timberland Women's Waterproof Nellie Chukka Double",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Timberland_Womens_Waterproof_Nellie_Chukka_Double",
+      "faces_original": 24054,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Tory_Burch_Kaitlin_Ballet_Mestico_in_BlackGold.ply",
+      "name": "Tory_Burch_Kaitlin_Ballet_Mestico_in_BlackGold",
+      "description": "Tory Burch Kaitlin Ballet - Mestico in Black/Gold",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tory_Burch_Kaitlin_Ballet_Mestico_in_BlackGold",
+      "faces_original": 34534,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Tory_Burch_Kiernan_Riding_Boot.ply",
+      "name": "Tory_Burch_Kiernan_Riding_Boot",
+      "description": "Tory Burch Kiernan Riding Boot",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tory_Burch_Kiernan_Riding_Boot",
+      "faces_original": 7112,
+      "faces_stored": 7112
+    },
+    {
+      "file": "Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold.ply",
+      "name": "Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold",
+      "description": "Tory Burch Reva (Metal Logo)- Litus Snake Print in dark Branch/Gold",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tory_Burch_Reva_Metal_Logo_Litus_Snake_Print_in_dark_BranchGold",
+      "faces_original": 23850,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Tory_Burch_Sabe_65mm_Bootie_Split_Suede_in_Caramel.ply",
+      "name": "Tory_Burch_Sabe_65mm_Bootie_Split_Suede_in_Caramel",
+      "description": "Tory Burch Sabe 65mm Bootie- Split Suede in Caramel",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Tory_Burch_Sabe_65mm_Bootie_Split_Suede_in_Caramel",
+      "faces_original": 9660,
+      "faces_stored": 9660
+    },
+    {
+      "file": "UGG_Bailey_Bow_Womens_Clogs_Black_7.ply",
+      "name": "UGG_Bailey_Bow_Womens_Clogs_Black_7",
+      "description": "UGG Bailey Bow Women's Clogs- Black 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Bailey_Bow_Womens_Clogs_Black_7",
+      "faces_original": 27362,
+      "faces_stored": 10000
+    },
+    {
+      "file": "UGG_Bailey_Button_Triplet_Womens_Boots_Black_7.ply",
+      "name": "UGG_Bailey_Button_Triplet_Womens_Boots_Black_7",
+      "description": "UGG Bailey Button Triplet Women's Boots- Black 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Bailey_Button_Triplet_Womens_Boots_Black_7",
+      "faces_original": 19986,
+      "faces_stored": 10000
+    },
+    {
+      "file": "UGG_Bailey_Button_Womens_Boots_Black_7.ply",
+      "name": "UGG_Bailey_Button_Womens_Boots_Black_7",
+      "description": "UGG Bailey Button Women's Boots- Black 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Bailey_Button_Womens_Boots_Black_7",
+      "faces_original": 22838,
+      "faces_stored": 10000
+    },
+    {
+      "file": "UGG_Cambridge_Womens_Black_7.ply",
+      "name": "UGG_Cambridge_Womens_Black_7",
+      "description": "UGG Cambridge Women's - Black 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Cambridge_Womens_Black_7",
+      "faces_original": 42030,
+      "faces_stored": 10000
+    },
+    {
+      "file": "UGG_Classic_Tall_Womens_Boots_Chestnut_7.ply",
+      "name": "UGG_Classic_Tall_Womens_Boots_Chestnut_7",
+      "description": "UGG Classic Tall Women's Boots- Chestnut 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Classic_Tall_Womens_Boots_Chestnut_7",
+      "faces_original": 17234,
+      "faces_stored": 10000
+    },
+    {
+      "file": "UGG_Classic_Tall_Womens_Boots_Grey_7.ply",
+      "name": "UGG_Classic_Tall_Womens_Boots_Grey_7",
+      "description": "UGG Classic Tall Women's Boots- Grey 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Classic_Tall_Womens_Boots_Grey_7",
+      "faces_original": 20432,
+      "faces_stored": 10000
+    },
+    {
+      "file": "UGG_Jena_Womens_Java_7.ply",
+      "name": "UGG_Jena_Womens_Java_7",
+      "description": "UGG Jena Women's - Java 7",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/UGG_Jena_Womens_Java_7",
+      "faces_original": 25212,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Unmellow_Yellow_Tieks_Neon_Patent_Leather_Ballet_Flats.ply",
+      "name": "Unmellow_Yellow_Tieks_Neon_Patent_Leather_Ballet_Flats",
+      "description": "Unmellow Yellow Tieks - Neon Patent Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Unmellow_Yellow_Tieks_Neon_Patent_Leather_Ballet_Flats",
+      "faces_original": 20742,
+      "faces_stored": 10000
+    },
+    {
+      "file": "W_Lou_z0dkC78niiZ.ply",
+      "name": "W_Lou_z0dkC78niiZ",
+      "description": "W Lou",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/W_Lou_z0dkC78niiZ",
+      "faces_original": 10160,
+      "faces_stored": 10000
+    },
+    {
+      "file": "White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes.ply",
+      "name": "White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes",
+      "description": "White Rose Tieks - Leather Ballet Flats with Floral Rosettes",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/White_Rose_Tieks_Leather_Ballet_Flats_with_Floral_Rosettes",
+      "faces_original": 43360,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats.ply",
+      "name": "Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats",
+      "description": "Wild Copper Tieks - Metallic Italian Leather Ballet Flats",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Wild_Copper_Tieks_Metallic_Italian_Leather_Ballet_Flats",
+      "faces_original": 20854,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Angelfish_Boat_Shoe_in_Linen_Leopard_Sequin_NJDwosWNeZz.ply",
+      "name": "Womens_Angelfish_Boat_Shoe_in_Linen_Leopard_Sequin_NJDwosWNeZz",
+      "description": "Women's Angelfish Boat Shoe in Linen / Leopard Sequin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Angelfish_Boat_Shoe_in_Linen_Leopard_Sequin_NJDwosWNeZz",
+      "faces_original": 18204,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Angelfish_Boat_Shoe_in_Linen_Oat.ply",
+      "name": "Womens_Angelfish_Boat_Shoe_in_Linen_Oat",
+      "description": "Women's Angelfish Boat Shoe in Linen Oat",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Angelfish_Boat_Shoe_in_Linen_Oat",
+      "faces_original": 17926,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Audrey_Slip_On_Boat_Shoe_in_Graphite_Nubuck_xWVkCJ5vxZe.ply",
+      "name": "Womens_Audrey_Slip_On_Boat_Shoe_in_Graphite_Nubuck_xWVkCJ5vxZe",
+      "description": "Women's Audrey Slip On Boat Shoe in Graphite Nubuck",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Audrey_Slip_On_Boat_Shoe_in_Graphite_Nubuck_xWVkCJ5vxZe",
+      "faces_original": 16654,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather.ply",
+      "name": "Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather",
+      "description": "Women's Authentic Original Boat Shoe in Classic Brown Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather",
+      "faces_original": 19084,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_48Nh7VuMwW6.ply",
+      "name": "Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_48Nh7VuMwW6",
+      "description": "Women's Authentic Original Boat Shoe in Classic Brown Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_48Nh7VuMwW6",
+      "faces_original": 18644,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_cJSCWiH7QmB.ply",
+      "name": "Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_cJSCWiH7QmB",
+      "description": "Women's Authentic Original Boat Shoe in Classic Brown Leather",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_cJSCWiH7QmB",
+      "faces_original": 19216,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Authentic_Original_Boat_Shoe_in_Navy_Deerskin_50lWJaLWG8R.ply",
+      "name": "Womens_Authentic_Original_Boat_Shoe_in_Navy_Deerskin_50lWJaLWG8R",
+      "description": "Women's Authentic Original Boat Shoe in Navy Deerskin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Authentic_Original_Boat_Shoe_in_Navy_Deerskin_50lWJaLWG8R",
+      "faces_original": 18998,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Betty_Chukka_Boot_in_Grey_Jersey_Sequin.ply",
+      "name": "Womens_Betty_Chukka_Boot_in_Grey_Jersey_Sequin",
+      "description": "Women's Betty Chukka Boot in Grey Jersey Sequin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Betty_Chukka_Boot_in_Grey_Jersey_Sequin",
+      "faces_original": 18206,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Betty_Chukka_Boot_in_Navy_Jersey_Sequin_y0SsHk7dKUX.ply",
+      "name": "Womens_Betty_Chukka_Boot_in_Navy_Jersey_Sequin_y0SsHk7dKUX",
+      "description": "Women's Betty Chukka Boot in Navy Jersey Sequin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Betty_Chukka_Boot_in_Navy_Jersey_Sequin_y0SsHk7dKUX",
+      "faces_original": 20268,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Betty_Chukka_Boot_in_Navy_aEE8OqvMII4.ply",
+      "name": "Womens_Betty_Chukka_Boot_in_Navy_aEE8OqvMII4",
+      "description": "Women's Betty Chukka Boot in Navy",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Betty_Chukka_Boot_in_Navy_aEE8OqvMII4",
+      "faces_original": 22772,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Betty_Chukka_Boot_in_Salt_Washed_Red_AL2YrOt9CRy.ply",
+      "name": "Womens_Betty_Chukka_Boot_in_Salt_Washed_Red_AL2YrOt9CRy",
+      "description": "Women's Betty Chukka Boot in Salt Washed Red",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Betty_Chukka_Boot_in_Salt_Washed_Red_AL2YrOt9CRy",
+      "faces_original": 17996,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Brown_Deerskin_JJ2pfEHTZG7.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Brown_Deerskin_JJ2pfEHTZG7",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Brown Deerskin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Brown_Deerskin_JJ2pfEHTZG7",
+      "faces_original": 25088,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Brown_Deerskin_i1TgjjO0AKY.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Brown_Deerskin_i1TgjjO0AKY",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Brown Deerskin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Brown_Deerskin_i1TgjjO0AKY",
+      "faces_original": 20328,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Natural_Sparkle_Suede_kqi81aojcOR.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Natural_Sparkle_Suede_kqi81aojcOR",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Linen / Natural Sparkle Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Natural_Sparkle_Suede_kqi81aojcOR",
+      "faces_original": 19938,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Natural_Sparkle_Suede_w34KNQ41csH.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Natural_Sparkle_Suede_w34KNQ41csH",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Linen / Natural Sparkle Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Natural_Sparkle_Suede_w34KNQ41csH",
+      "faces_original": 17972,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Linen Oat",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat",
+      "faces_original": 19904,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_IbrSyJdpT3h.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_IbrSyJdpT3h",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Linen Oat",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_IbrSyJdpT3h",
+      "faces_original": 16578,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Linen Oat",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Linen_Oat_niKJKeWsmxY",
+      "faces_original": 16458,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Bluefish_2Eye_Boat_Shoe_in_Tan.ply",
+      "name": "Womens_Bluefish_2Eye_Boat_Shoe_in_Tan",
+      "description": "Women's Bluefish 2-Eye Boat Shoe in Tan",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Bluefish_2Eye_Boat_Shoe_in_Tan",
+      "faces_original": 21022,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Canvas_Bahama_in_Black.ply",
+      "name": "Womens_Canvas_Bahama_in_Black",
+      "description": "Women's Canvas Bahama in Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Canvas_Bahama_in_Black",
+      "faces_original": 15574,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Canvas_Bahama_in_Black_vnJULsDVyq5.ply",
+      "name": "Womens_Canvas_Bahama_in_Black_vnJULsDVyq5",
+      "description": "Women's Canvas Bahama in Black",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Canvas_Bahama_in_Black_vnJULsDVyq5",
+      "faces_original": 16170,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Canvas_Bahama_in_White_4UyOhP6rYGO.ply",
+      "name": "Womens_Canvas_Bahama_in_White_4UyOhP6rYGO",
+      "description": "Women's Canvas Bahama in White",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Canvas_Bahama_in_White_4UyOhP6rYGO",
+      "faces_original": 12688,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Canvas_Bahama_in_White_UfZPHGQpvz0.ply",
+      "name": "Womens_Canvas_Bahama_in_White_UfZPHGQpvz0",
+      "description": "Women's Canvas Bahama in White",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Canvas_Bahama_in_White_UfZPHGQpvz0",
+      "faces_original": 13010,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Cloud_Logo_Authentic_Original_Boat_Shoe_in_Black_Supersoft_8LigQYwf4gr.ply",
+      "name": "Womens_Cloud_Logo_Authentic_Original_Boat_Shoe_in_Black_Supersoft_8LigQYwf4gr",
+      "description": "Women's Cloud Logo Authentic Original Boat Shoe in Black Supersoft",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Cloud_Logo_Authentic_Original_Boat_Shoe_in_Black_Supersoft_8LigQYwf4gr",
+      "faces_original": 26776,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Cloud_Logo_Authentic_Original_Boat_Shoe_in_Black_Supersoft_cZR022qFI4k.ply",
+      "name": "Womens_Cloud_Logo_Authentic_Original_Boat_Shoe_in_Black_Supersoft_cZR022qFI4k",
+      "description": "Women's Cloud Logo Authentic Original Boat Shoe in Black Supersoft",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Cloud_Logo_Authentic_Original_Boat_Shoe_in_Black_Supersoft_cZR022qFI4k",
+      "faces_original": 23766,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Hikerfish_Boot_in_Black_Leopard_bVSNY1Le1sm.ply",
+      "name": "Womens_Hikerfish_Boot_in_Black_Leopard_bVSNY1Le1sm",
+      "description": "Women's Hikerfish Boot in Black / Leopard",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Hikerfish_Boot_in_Black_Leopard_bVSNY1Le1sm",
+      "faces_original": 27230,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Hikerfish_Boot_in_Black_Leopard_ridcCWsv8rW.ply",
+      "name": "Womens_Hikerfish_Boot_in_Black_Leopard_ridcCWsv8rW",
+      "description": "Women's Hikerfish Boot in Black / Leopard",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Hikerfish_Boot_in_Black_Leopard_ridcCWsv8rW",
+      "faces_original": 24584,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Hikerfish_Boot_in_Linen_Leather_Sparkle_Suede_QktIyAkonrU.ply",
+      "name": "Womens_Hikerfish_Boot_in_Linen_Leather_Sparkle_Suede_QktIyAkonrU",
+      "description": "Women's Hikerfish Boot in Linen Leather / Sparkle Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Hikerfish_Boot_in_Linen_Leather_Sparkle_Suede_QktIyAkonrU",
+      "faces_original": 20600,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Hikerfish_Boot_in_Linen_Leather_Sparkle_Suede_imlP8VkwqIH.ply",
+      "name": "Womens_Hikerfish_Boot_in_Linen_Leather_Sparkle_Suede_imlP8VkwqIH",
+      "description": "Women's Hikerfish Boot in Linen Leather / Sparkle Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Hikerfish_Boot_in_Linen_Leather_Sparkle_Suede_imlP8VkwqIH",
+      "faces_original": 20658,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Sequin_Bahama_in_White_Sequin_V9K1hf24Oxe.ply",
+      "name": "Womens_Sequin_Bahama_in_White_Sequin_V9K1hf24Oxe",
+      "description": "Women's Sequin Bahama in White Sequin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Sequin_Bahama_in_White_Sequin_V9K1hf24Oxe",
+      "faces_original": 13638,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Sequin_Bahama_in_White_Sequin_XoR8xTlxj1g.ply",
+      "name": "Womens_Sequin_Bahama_in_White_Sequin_XoR8xTlxj1g",
+      "description": "Women's Sequin Bahama in White Sequin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Sequin_Bahama_in_White_Sequin_XoR8xTlxj1g",
+      "faces_original": 23926,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Sequin_Bahama_in_White_Sequin_yGVsSA4tOwJ.ply",
+      "name": "Womens_Sequin_Bahama_in_White_Sequin_yGVsSA4tOwJ",
+      "description": "Women's Sequin Bahama in White Sequin",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Sequin_Bahama_in_White_Sequin_yGVsSA4tOwJ",
+      "faces_original": 16678,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Sparkle_Suede_Angelfish_in_Grey_Sparkle_Suede_Silver.ply",
+      "name": "Womens_Sparkle_Suede_Angelfish_in_Grey_Sparkle_Suede_Silver",
+      "description": "Women's Sparkle Suede Angelfish in Grey Sparkle Suede / Silver",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Sparkle_Suede_Angelfish_in_Grey_Sparkle_Suede_Silver",
+      "faces_original": 18986,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_tYrIBLMhSTN.ply",
+      "name": "Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_tYrIBLMhSTN",
+      "description": "Women's Sparkle Suede Bahama in Silver Sparkle Suede / Grey Patent",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_tYrIBLMhSTN",
+      "faces_original": 14916,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_x9rclU7EJXx.ply",
+      "name": "Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_x9rclU7EJXx",
+      "description": "Women's Sparkle Suede Bahama in Silver Sparkle Suede / Grey Patent",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Sparkle_Suede_Bahama_in_Silver_Sparkle_Suede_Grey_Patent_x9rclU7EJXx",
+      "faces_original": 13136,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Suede_Bahama_in_Graphite_Suede_cUAjIMhWSO9.ply",
+      "name": "Womens_Suede_Bahama_in_Graphite_Suede_cUAjIMhWSO9",
+      "description": "Women's Suede Bahama in Graphite Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Suede_Bahama_in_Graphite_Suede_cUAjIMhWSO9",
+      "faces_original": 12208,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Suede_Bahama_in_Graphite_Suede_p1KUwoWbw7R.ply",
+      "name": "Womens_Suede_Bahama_in_Graphite_Suede_p1KUwoWbw7R",
+      "description": "Women's Suede Bahama in Graphite Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Suede_Bahama_in_Graphite_Suede_p1KUwoWbw7R",
+      "faces_original": 10528,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Suede_Bahama_in_Graphite_Suede_t22AJSRjBOX.ply",
+      "name": "Womens_Suede_Bahama_in_Graphite_Suede_t22AJSRjBOX",
+      "description": "Women's Suede Bahama in Graphite Suede",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Suede_Bahama_in_Graphite_Suede_t22AJSRjBOX",
+      "faces_original": 18034,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Teva_Capistrano_Bootie.ply",
+      "name": "Womens_Teva_Capistrano_Bootie",
+      "description": "Women's Teva Capistrano Bootie",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Teva_Capistrano_Bootie",
+      "faces_original": 19818,
+      "faces_stored": 10000
+    },
+    {
+      "file": "Womens_Teva_Capistrano_Bootie_ldjRT9yZ5Ht.ply",
+      "name": "Womens_Teva_Capistrano_Bootie_ldjRT9yZ5Ht",
+      "description": "Women's Teva Capistrano Bootie",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/Womens_Teva_Capistrano_Bootie_ldjRT9yZ5Ht",
+      "faces_original": 20664,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ZX700_lYiwcTIekXk.ply",
+      "name": "ZX700_lYiwcTIekXk",
+      "description": "ZX700",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ZX700_lYiwcTIekXk",
+      "faces_original": 29206,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ZX700_mf9Pc06uL06.ply",
+      "name": "ZX700_mf9Pc06uL06",
+      "description": "ZX700",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ZX700_mf9Pc06uL06",
+      "faces_original": 34414,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ZX700_mzGbdP3u6JB.ply",
+      "name": "ZX700_mzGbdP3u6JB",
+      "description": "ZX700",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ZX700_mzGbdP3u6JB",
+      "faces_original": 32970,
+      "faces_stored": 10000
+    },
+    {
+      "file": "ZigKick_Hoops.ply",
+      "name": "ZigKick_Hoops",
+      "description": "ZigKick Hoops",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/ZigKick_Hoops",
+      "faces_original": 26360,
+      "faces_stored": 10000
+    },
+    {
+      "file": "adiZero_Slide_2_SC.ply",
+      "name": "adiZero_Slide_2_SC",
+      "description": "adiZero Slide 2 SC",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/adiZero_Slide_2_SC",
+      "faces_original": 13138,
+      "faces_stored": 10000
+    },
+    {
+      "file": "adistar_boost_m.ply",
+      "name": "adistar_boost_m",
+      "description": "adistar boost m",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/adistar_boost_m",
+      "faces_original": 32918,
+      "faces_stored": 10000
+    },
+    {
+      "file": "adizero_5Tool_25.ply",
+      "name": "adizero_5Tool_25",
+      "description": "adizero 5-Tool 2.5",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/adizero_5Tool_25",
+      "faces_original": 27160,
+      "faces_stored": 10000
+    },
+    {
+      "file": "adizero_F50_TRX_FG_LEA.ply",
+      "name": "adizero_F50_TRX_FG_LEA",
+      "description": "adizero F50 TRX FG LEA",
+      "source_url": "https://app.gazebosim.org/GoogleResearch/fuel/models/adizero_F50_TRX_FG_LEA",
+      "faces_original": 23144,
+      "faces_stored": 10000
+    }
+  ]
+}
